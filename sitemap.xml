@@ -4,24 +4,32 @@
     
     <url>
     
-      <loc>https://menaveenshankar.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <loc>https://menaveenshankar.github.io/misc/example/</loc>
+      <lastmod>2018-09-09T00:00:00+02:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://menaveenshankar.github.io/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <loc>https://menaveenshankar.github.io/misc/</loc>
+      <lastmod>2018-09-09T00:00:00+02:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://menaveenshankar.github.io/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <loc>https://menaveenshankar.github.io/publication/iccv15/</loc>
+      <lastmod>2015-12-11T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://menaveenshankar.github.io/publication/iccv13/</loc>
+      <lastmod>2013-12-11T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -39,6 +47,28 @@
       <loc>https://menaveenshankar.github.io/</loc>
       <lastmod>2017-10-15T00:00:00+02:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://menaveenshankar.github.io/publication/</loc>
+      <lastmod>2015-12-11T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://menaveenshankar.github.io/slides/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://menaveenshankar.github.io/slides/example-slides/</loc>
     </url>
     
   
