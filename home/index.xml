@@ -36,7 +36,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://menaveenshankar.github.io/home/about/</guid>
-      <description>Hello World! I am a Senior Machine Learning engineer at the BMW Group. Previously, I spent some wonderful years in Freiburg as a PhD student working on Video Segmentation, supervised by Prof. Thomas Brox.</description>
+      <description>Hello Random Walker! I am a Machine Learning research and development engineer at the BMW Group. I&amp;rsquo;m interested in all aspects of Augmented Intelligence using minimal data. Previously, I spent some wonderful years in Freiburg as a PhD student working on Video Segmentation, supervised by Prof. Thomas Brox.</description>
     </item>
     
     <item>
@@ -85,13 +85,24 @@
     </item>
     
     <item>
-      <title>Custom Section</title>
-      <link>https://menaveenshankar.github.io/home/teaching/</link>
+      <title>Hobbies</title>
+      <link>https://menaveenshankar.github.io/home/hobbies/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://menaveenshankar.github.io/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
+      <guid>https://menaveenshankar.github.io/home/hobbies/</guid>
+      <description>Music: Senior grade violinist (Carnatic genre), under the tutelage of Vidushi Krishna Veni (disciple of seven string legend Vidwan R.R. Keshavamurthy)
+Sports: Badminton, Hapkido (blue belt), Table Tennis
+I also like reading about my country&amp;rsquo;s as well as world history, and watching {wildlife, scientific} documentaries.</description>
+    </item>
+    
+    <item>
+      <title>Hobbies</title>
+      <link>https://menaveenshankar.github.io/home/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://menaveenshankar.github.io/home/skills/</guid>
+      <description>Music: Senior grade violinist (Carnatic style), under the tutelage of Vidushi Krishna Veni (disciple of seven string legend Vidwan R.R. Keshavamurthy)
+Sports: Badminton, Hapkido (blue belt), Table Tennis</description>
     </item>
     
     <item>
@@ -100,15 +111,6 @@ To remove this section, either delete content/home/teaching.md or edit the front
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://menaveenshankar.github.io/home/contact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://menaveenshankar.github.io/home/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://menaveenshankar.github.io/home/skills/</guid>
       <description></description>
     </item>
     
